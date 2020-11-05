@@ -4,8 +4,11 @@ function About() {
   return (
 
     <div>
-      <div className="hero text-center" style={{ backgroundImage: "url('https://imgur.com/gallery/tdavu17')", height: "45%"}}>
+      <div className="hero text-center" style={{ backgroundImage: "url('https://i.imgur.com/MMC0Dko.jpg')", height: "45vh"}}>
+        {/* <img src="https://en.wikipedia.org/wiki/Welsh_Corgi#/media/File:ThreeTimeAKCGoldWinnerPembrookeWelshCorgi.jpg"/> */}
       <h1>Pupster</h1>
+
+
       <h2>They're the Good Boys and Girls</h2>
       </div>
       <div>
