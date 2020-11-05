@@ -1,6 +1,6 @@
 import React from "react";
 import DiscoverCard from "../DiscoverCard";
-import API from "../utils/API";
+import API from "../../utils/API";
 
 class Discover extends React.Component {
 
