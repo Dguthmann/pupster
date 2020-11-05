@@ -3,6 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 
 function NavTabs(props) {
   
+  const location = useLocation();
 
   return (
     <ul className="nav nav-tabs">
